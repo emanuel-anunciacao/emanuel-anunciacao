@@ -2,7 +2,7 @@
 
 ### 💻 Sobre Mim
 
-Sou estudante do último semestre de **Tecnologias de Programação e Sistemas de Informação** no [IPMAIA](https://www.ipmaia.pt/). Tenho experiência com desenvolvimento de software, integração de APIs, automação de processos e suporte técnico.
+Sou formado em **Tecnologias de Programação e Sistemas de Informação** no [IPMAIA](https://www.ipmaia.pt/). Tenho experiência com desenvolvimento de software, integração de APIs, automação de processos e suporte técnico.
 
 ---
 
